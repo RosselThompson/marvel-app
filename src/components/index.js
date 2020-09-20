@@ -1,0 +1,5 @@
+export {default as Characters} from './Characters' 
+export {default as Comics} from './Comics' 
+export {default as Stories} from './Stories' 
+export {default as Details} from './Details'
+export {default as Favorites} from './Favorites'
