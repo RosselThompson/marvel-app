@@ -1,7 +1,8 @@
 # Marvel App
+https://rtmarvelapp.herokuapp.com/
 
 ## Overview:
-This app consume resources from Marvel's API  and allow you to explore it's content like Characters, Comics, Stories, etc
+This app consume resources from Marvel's API  and allow you to explore it's content like Characters, Comics, Stories and so on.
 
 **Frontend Libraries**
 react 16.13.1
